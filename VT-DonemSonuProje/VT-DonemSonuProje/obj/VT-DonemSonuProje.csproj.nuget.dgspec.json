@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\90505\\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\\Ekler\\Masaüstü\\210601050_YaseminBahsiFinalOdevi\\VT-DonemSonuProje\\VT-DonemSonuProje\\VT-DonemSonuProje.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\90505\\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\\Ekler\\Masaüstü\\210601050_YaseminBahsiFinalOdevi\\VT-DonemSonuProje\\VT-DonemSonuProje\\VT-DonemSonuProje.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90505\\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\\Ekler\\Masaüstü\\210601050_YaseminBahsiFinalOdevi\\VT-DonemSonuProje\\VT-DonemSonuProje\\VT-DonemSonuProje.csproj",
+        "projectName": "VT-DonemSonuProje",
+        "projectPath": "C:\\Users\\90505\\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\\Ekler\\Masaüstü\\210601050_YaseminBahsiFinalOdevi\\VT-DonemSonuProje\\VT-DonemSonuProje\\VT-DonemSonuProje.csproj",
+        "packagesPath": "C:\\Users\\90505\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90505\\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\\Ekler\\Masaüstü\\210601050_YaseminBahsiFinalOdevi\\VT-DonemSonuProje\\VT-DonemSonuProje\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\90505\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
